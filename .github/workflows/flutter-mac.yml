@@ -1,4 +1,4 @@
-name: Full Flutter CI
+name: Flutter Mac
 
 on:
   workflow_dispatch:
